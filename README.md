@@ -15,3 +15,5 @@ It is up to nations to invest more in the safety and security of the electricity
 
 5. Cyber warfare may not be new, but nation states appear to be intensifying their efforts to target the industrial control systems and critical infrastructure of their rivals. These infrastructures range from voting machines to hydraulic and electrical infrastructures.
 In this step, it is very important for all the nations of the world to be more aware of this dangerous threat, because if all the important infrastructure of a nation is undermined, it will represent a huge loss, even a collapse of the nation.
+
+6. 
