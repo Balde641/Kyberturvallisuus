@@ -16,4 +16,16 @@ It is up to nations to invest more in the safety and security of the electricity
 5. Cyber warfare may not be new, but nation states appear to be intensifying their efforts to target the industrial control systems and critical infrastructure of their rivals. These infrastructures range from voting machines to hydraulic and electrical infrastructures.
 In this step, it is very important for all the nations of the world to be more aware of this dangerous threat, because if all the important infrastructure of a nation is undermined, it will represent a huge loss, even a collapse of the nation.
 
-6. 
+6. Today, technology is the playing field of many countries to finance themselves legally or illegally using all kinds of means. At the same time, some countries are doing everything they can by hacking to destroy the important infrastructure and facilities of other nations.
+To make this issue less harmful to everyone, the United Nations (UN) must act as a referee to warn and apply harsh sanctions against all nations using technology to illegally harm others.
+
+7. If a single cyber attack can cause hundreds of millions of dollars in damage to nations or businesses. Imagine that if several cyber attacks occur at the same time on a single country or a single company, that will lead to its total collapse and its destruction.
+
+8. All these stories about different malware should be a wake-up call.
+In industrial control systems, if working sensors and computers that modify things in the physical environment are attacked, the result of the operation will not be the one desired, which could put many lives and the environment in a dangerous situation.
+To live in a better world, we need a higher level of security against those malwares. That is why nations should focus more on the development of cybersecurity.
+
+9. If Ransomware has the potential to target IoT devices, failing to further secure these small Internet-connected devices would one day be a disaster. Imagine that a patient must be transported to a health center and that the transport vehicle or helicopter is under hostage by harkers who apply a kind of ransomware. This could complicate the situation of the patient who needs urgent treatment.
+
+10. If certain manufacturers collect user data and sell that data to third parties by telemetry and the data may include the types of programs you watch, the advertisements you watch and your approximate location. This should be made more transparent to consumers as to the type of data collected and the rights of consumers should not be violated against their will.
+Businesses and nations must be punished for their bad actions against consumers.
